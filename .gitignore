@@ -1,0 +1,7 @@
+sessions/*
+!sessions/.gitkeep
+data/*
+!data/.gitkeep
+**/__pycache__/
+.vscode/
+.DS_Store
